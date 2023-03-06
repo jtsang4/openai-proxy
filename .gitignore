@@ -122,3 +122,4 @@ worker
 # Miscellaneous
 .DS_store
 .mf
+wrangler.toml
