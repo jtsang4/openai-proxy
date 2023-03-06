@@ -4,3 +4,6 @@ usage_model = "bundled"
 workers_dev = true
 compatibility_date = "2022-10-03"
 main = "src/index.ts"
+routes = [
+	{ pattern = "custom-domain.com", custom_domain = true },
+]
